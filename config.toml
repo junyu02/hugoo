@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Oscar Wei Personal Site'
+theme = "PaperMod"
